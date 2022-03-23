@@ -1,9 +1,9 @@
 ![BetterKerbol](Banner/BetterKerbol.png)
 # BetterKerbol
-Too long has stock Kerbol gone unloved.  No longer will it sit at the center of the solar system, ugly and drab.  With new high resolution textures, scatterer support, and custom light curves, BetterKerbol attempts to remake Kerbol as eye candy worthy of pretty screenshots.
-Towards this end, the radius has also been tweaked by an imperceptably tiny amount, to get around a quirk in KSPs engine.  This change does not effect the orbits of the planets, as Kerbol's mass is unchanged.  Experience the searing light of Kerbol as you approach the corona, or watch is it dims to a pale flicker as you travel beyond the orbit of Eeloo.
+Too long has stock Kerbol gone unloved. No longer will it sit at the center of the solar system, ugly and drab. With new high resolution textures, Scatterer support, and custom light curves, BetterKerbol attempts to remake Kerbol as eye candy worthy of pretty screenshots.
+Towards this end, the radius has also been tweaked by an imperceptibly tiny amount, to get around a quirk in KSPs engine. This change does not effect the orbits of the planets, as Kerbol's mass is unchanged. Experience the searing light of Kerbol as you approach the corona, or watch is it dims to a pale flicker as you travel beyond the orbit of Eeloo.
 
-Additionaly, for those who desire a more realistically scaled Kerbol, that better aligns with stock scale, a optional patch is provided to reduce the radius of kerbol by a factor of 4.24x
+Additionally, for those who desire a more realistically scaled Kerbol, that better aligns with stock scale, a optional patch is provided to reduce the radius of Kerbol by a factor of 4.24x
 
 ## Features
 ### Base
@@ -16,7 +16,7 @@ Additionaly, for those who desire a more realistically scaled Kerbol, that bette
 
 ## Notes
 * Due to a long-standing bug the way KSP calculates solar heat, temperatures near the surface are extreme, with radiant power density approaching infinity! Bring your exploit shielding or it's a one way trip!
-* No sunflare is provided.  If using scatterer, pick your favorite sunflare mod, personally I recommend [Sunflares of Maar](https://forum.kerbalspaceprogram.com/index.php?/topic/162775-131-poll-sunflares-of-maar-gpp-bundle-v12-jan-23-2018/).
+* No sunflare is provided.  If using Scatterer, pick your favorite sunflare mod, personally I recommend [Sunflares of Maar](https://forum.kerbalspaceprogram.com/index.php?/topic/162775-131-poll-sunflares-of-maar-gpp-bundle-v12-jan-23-2018/).
 * This is my first Mod, pls be gentle.
 
 ## Installation
