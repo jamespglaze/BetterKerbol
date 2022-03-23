@@ -23,7 +23,7 @@ Additionally, for those who desire a more realistically scaled Kerbol, that bett
 ### Base
 * Extract the zip file
 * Place the GameData folder into your KSP directory
-### Optional
+### Optional - BetterKerbol Rescale
 * Open the Optional Mods folder
 * Place the GameData folder into your KSP directory
 
