@@ -15,8 +15,8 @@ Additionally, for those who desire a more realistically scaled Kerbol, that bett
 * Reduced radius by 4.24x, bringing Kerbol into line with the 1:10.63 scale of the rest of the Kerbal universe
 
 ## Notes
-* Due to a long-standing bug the way KSP calculates solar heat, temperatures near the surface are extreme, with radiant power density approaching infinity! Bring your exploit shielding or it's a one way trip!
-* No sunflare is provided.  If using Scatterer, pick your favorite sunflare mod, personally I recommend [Sunflares of Maar](https://forum.kerbalspaceprogram.com/index.php?/topic/162775-131-poll-sunflares-of-maar-gpp-bundle-v12-jan-23-2018/).
+* Due to a long-standing bug in the way KSP calculates solar heat, temperatures near the surface are extreme, with radiant power density approaching infinity! Bring your exploit shielding or it's a one way trip!
+* No sunflare is provided.  If using Scatterer, pick your favorite sunflare mod.
 * This is my first Mod, pls be gentle.
 
 ## Installation
@@ -27,15 +27,12 @@ Additionally, for those who desire a more realistically scaled Kerbol, that bett
 * Open the Optional Mods folder
 * Place the GameData folder into your KSP directory
 
-## Provided Compatibility
-* Scatterer, v0.0831
-
 ## Requirements
-* Kopernicus (latest version for your specific version of KSP, or latest backport release for older KSP versions)
-* ModuleManager 4 or newer
+* [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
+* [Kopernicus](https://forum.kerbalspaceprogram.com/topic/200143-112x-kopernicus-stable-branch-last-updated-june-17th-2024/)
 
-## Recommended Mods
-* [Sunflares of Maar](https://forum.kerbalspaceprogram.com/index.php?/topic/162775-131-poll-sunflares-of-maar-gpp-bundle-v12-jan-23-2018/)
+## Provided Compatibility
+* [Scatterer](https://forum.kerbalspaceprogram.com/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
 
 ## Licensing
 * BetterKerbol is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)
